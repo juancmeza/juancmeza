@@ -1,9 +1,16 @@
-### Hi there 👋
+### Hello World! 👋
+
+I recently transitioned from creating cocktails to creating software.
+I am most comfortable with Javascript and React, but I like to combine them with Ruby on Rails and follow MVC conventions to create RESTful APIs.
+Please take a look at some of the work I've done:
 
 <!--
 **juancmeza/juancmeza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+I recently transitioned from creating cocktails to creating software.
+Please take a look at some of the work I've done:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
