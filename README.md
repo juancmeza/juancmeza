@@ -1,7 +1,7 @@
 ### Hello World! 👋
 
 My name is Juan Carlos and I recently transitioned from creating cocktails to creating software.
-I am most comfortable with Javascript and React, but I like to combine them with Ruby on Rails and follow MVC conventions to create RESTful APIs.
+I am most comfortable with Javascript and React, but I like to combine them with Ruby on Rails and follow MVC conventions to create RESTful APIs and CRUD applications.
 Please take a look at some of the work I've done:
 
 
